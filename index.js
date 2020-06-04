@@ -9,25 +9,27 @@ let keepExecution = true;
     delete require.cache[require.resolve("./memoization.json")];
     let memoizedOptions = require("./memoization.json");
     console.log(memoizedOptions);
+    const browser = await puppeteer.launch({
+      // headless: false,
+      args: ["--no-sandbox"],
+      defaultViewport: {
+        width: 1280,
+        height: 720,
+      },
+    });
+    const page = await browser.newPage();
     try {
-      await run(memoizedOptions);
+      await run(page, memoizedOptions);
       keepExecution = false;
     } catch (err) {
       console.log(err);
+    } finally {
+      browser.close();
     }
   }
 })();
 
-async function run(options) {
-  const browser = await puppeteer.launch({
-    // headless: false,
-    args: ["--no-sandbox"],
-    defaultViewport: {
-      width: 1280,
-      height: 720,
-    },
-  });
-  const page = await browser.newPage();
+async function run(page, options) {
   const timeout = 30000;
   page.setDefaultNavigationTimeout(timeout);
   page.setDefaultTimeout(timeout);
