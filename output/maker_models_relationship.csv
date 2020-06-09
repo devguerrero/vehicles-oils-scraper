@@ -1,0 +1,781 @@
+marke, title
+Alfa Romeo, Spider
+Alfa Romeo, GTV-6
+Alfa Romeo, Milano
+Alfa Romeo, 164
+American Motors, AMX
+American Motors, Concord
+American Motors, Eagle
+American Motors, Pacer
+American Motors, Spirit
+Audi, 4000
+Audi, 5000
+Audi, Coupe
+Audi, Quattro
+Audi, 4000 Quattro
+Audi, 5000 Quattro
+Audi, 80
+Audi, 80 Quattro
+Audi, 90
+Audi, 90 Quattro
+Audi, 100
+Audi, 100 Quattro
+Audi, 200
+Audi, 200 Quattro
+Audi, Coupe Quattro
+Audi, V8 Quattro
+Audi, S4
+Audi, Cabriolet
+Audi, A6
+Audi, A6 Quattro
+Audi, S6
+Audi, A4
+Audi, A4 Quattro
+Audi, A8
+Audi, A8 Quattro
+Audi, TT
+Audi, TT Quattro
+BMW, 320i
+BMW, 528i
+BMW, 633CSi
+BMW, 733i
+BMW, 528e
+BMW, 533i
+BMW, 318i
+BMW, 325e
+BMW, 524td
+BMW, 535i
+BMW, 635CSi
+BMW, 735i
+BMW, 325
+BMW, 325es
+BMW, 325i
+BMW, 325is
+BMW, L6
+BMW, L7
+BMW, M6
+BMW, 325iX
+BMW, 535is
+BMW, 735iL
+BMW, 750iL
+BMW, M3
+BMW, M5
+BMW, 525i
+BMW, 318is
+BMW, 850i
+BMW, 525iT
+BMW, 740i
+BMW, 740iL
+BMW, 850Ci
+BMW, 530i
+BMW, 540i
+BMW, 840Ci
+BMW, 850CSi
+BMW, 318ti
+BMW, 328i
+BMW, 328is
+BMW, Z3
+BMW, 323i
+BMW, 323is
+BMW, 323Ci
+BMW, 328Ci
+BMW, X5
+BMW, Z8
+Buick, Century
+Buick, Electra
+Buick, Estate Wagon
+Buick, LeSabre
+Buick, Regal
+Buick, Riviera
+Buick, Skyhawk
+Buick, Skylark
+Buick, Somerset Regal
+Buick, Somerset
+Buick, Reatta
+Buick, Park Avenue
+Buick, Roadmaster
+Cadillac, DeVille
+Cadillac, Eldorado
+Cadillac, Fleetwood
+Cadillac, Seville
+Cadillac, Cimarron
+Cadillac, Allante
+Cadillac, Brougham
+Cadillac, 60 Special
+Cadillac, Catera
+Cadillac, Escalade
+Chevrolet, C10
+Chevrolet, C10 Suburban
+Chevrolet, C20
+Chevrolet, Astro
+Chevrolet, Beretta
+Chevrolet, Blazer
+Chevrolet, Camaro
+Chevrolet, C1500
+Chevrolet, C2500
+Chevrolet, C3500
+Chevrolet, C1500 Suburban
+Chevrolet, C2500 Suburban
+Chevrolet, Cavalier
+Chevrolet, Corvette
+Chevrolet, Express 1500
+Chevrolet, Express 2500
+Chevrolet, Express 3500
+Chevrolet, Impala
+Chevrolet, K2500
+Chevrolet, K3500
+Chevrolet, Lumina
+Chevrolet, Malibu
+Chevrolet, Metro
+Chevrolet, Monte Carlo
+Chevrolet, Prizm
+Chevrolet, S10
+Chevrolet, C20 Suburban
+Chevrolet, C30
+Chevrolet, Caprice
+Chevrolet, Chevette
+Chevrolet, Citation
+Chevrolet, El Camino
+Chevrolet, G10
+Chevrolet, G20
+Chevrolet, G30
+Chevrolet, K10
+Chevrolet, Celebrity
+Chevrolet, Citation II
+Chevrolet, Corsica
+Chevrolet, Nova
+Chevrolet, R10
+Chevrolet, R10 Suburban
+Chevrolet, K1500
+Chevrolet, R1500 Suburban
+Chevrolet, K1500 Suburban
+Chevrolet, K2500 Suburban
+Chevrolet, Silverado 1500
+Chevrolet, Silverado 2500
+Chevrolet, Tahoe
+Chevrolet, Tracker
+Chevrolet, Suburban 1500
+Chevrolet, Suburban 2500
+Chevrolet, Venture
+Chevrolet, K10 Suburban
+Chevrolet, K20
+Chevrolet, K20 Suburban
+Chevrolet, K30
+Chevrolet, K5 Blazer
+Chevrolet, LUV
+Chevrolet, S10 Blazer
+Chevrolet, R20
+Chevrolet, R20 Suburban
+Chevrolet, R30
+Chevrolet, Spectrum
+Chevrolet, Sprint
+Chevrolet, V10
+Chevrolet, V10 Suburban
+Chevrolet, V20
+Chevrolet, R2500
+Chevrolet, R2500 Suburban
+Chevrolet, R3500
+Chevrolet, V1500 Suburban
+Chevrolet, V2500 Suburban
+Chevrolet, V3500
+Chevrolet, Lumina APV
+Chevrolet, Monza
+Chevrolet, V20 Suburban
+Chevrolet, V30
+Acura, Integra
+Acura, Legend
+Acura, NSX
+Acura, Vigor
+Acura, TL
+Acura, RL
+Acura, SLX
+Acura, CL
+Chrysler, 300M
+Chrysler, Cirrus
+Chrysler, Concorde
+Chrysler, Grand Voyager
+Chrysler, LHS
+Chrysler, Sebring
+Chrysler, Town & Country
+Chrysler, Voyager
+Chrysler, Cordoba
+Chrysler, Imperial
+Chrysler, LeBaron
+Chrysler, New Yorker
+Chrysler, Conquest
+Chrysler, Fifth Avenue
+Chrysler, TC Maserati
+Chrysler, Newport
+Chrysler, E Class
+Chrysler, Executive Sedan
+Chrysler, Laser
+Chrysler, Executive Limousine
+Daewoo, Lanos
+Daewoo, Leganza
+Daewoo, Nubira
+Dodge, Avenger
+Dodge, Caravan
+Dodge, Dakota
+Dodge, Durango
+Dodge, Grand Caravan
+Dodge, Intrepid
+Dodge, Neon
+Dodge, Ram 1500
+Dodge, 400
+Dodge, Aries
+Dodge, B150
+Dodge, B250
+Dodge, B350
+Dodge, Challenger
+Dodge, Colt
+Dodge, D150
+Dodge, D250
+Dodge, D350
+Dodge, Daytona
+Dodge, Dynasty
+Dodge, Ram 50
+Dodge, Ramcharger
+Dodge, B1500
+Dodge, B2500
+Dodge, B3500
+Dodge, Ram 1500 Van
+Dodge, Ram 2500
+Dodge, Ram 2500 Van
+Dodge, Ram 3500
+Dodge, Ram 3500 Van
+Dodge, Stratus
+Dodge, Viper
+Dodge, Aspen
+Dodge, B100
+Dodge, B200
+Dodge, B300
+Dodge, D50
+Dodge, Diplomat
+Dodge, Mirada
+Dodge, Omni
+Dodge, St. Regis
+Dodge, W150
+Dodge, W250
+Dodge, W350
+Dodge, Rampage
+Dodge, 600
+Dodge, Charger
+Dodge, Power Ram 50
+Dodge, Conquest
+Dodge, D100
+Dodge, Mini Ram
+Dodge, Lancer
+Dodge, Raider
+Dodge, Shadow
+Dodge, Spirit
+Dodge, W100
+Dodge, Monaco
+Dodge, Stealth
+Dodge, D200
+Dodge, D300
+Dodge, W200
+Dodge, W300
+Daihatsu, Charade
+Daihatsu, Rocky
+Ford, Contour
+Ford, Crown Victoria
+Ford, E-150 Econoline
+Ford, E-150 Econoline Club Wagon
+Ford, E-250 Econoline
+Ford, E-350 Econoline Club Wagon
+Ford, E-350 Super Duty
+Ford, Escort
+Ford, Excursion
+Ford, Expedition
+Ford, Explorer
+Ford, F-150
+Ford, Bronco
+Ford, Courier
+Ford, E-100 Econoline
+Ford, E-100 Econoline Club Wagon
+Ford, Aerostar
+Ford, Bronco II
+Ford, E-350 Econoline
+Ford, Aspire
+Ford, F-250 Super Duty
+Ford, F-350 Super Duty
+Ford, Focus
+Ford, Mustang
+Ford, Ranger
+Ford, Taurus
+Ford, Windstar
+Ford, E-250 Econoline Club Wagon
+Ford, F-100
+Ford, EXP
+Ford, F-250
+Ford, Country Squire
+Ford, F-350
+Ford, Festiva
+Ford, LTD Crown Victoria
+Ford, Probe
+Ford, Tempo
+Ford, Thunderbird
+Ford, F-250 HD
+Ford, Fairmont
+Ford, Granada
+Ford, LTD
+Ford, Fiesta
+Ford, Pinto
+Eagle, Medallion
+Eagle, Premier
+Eagle, Summit
+Eagle, Talon
+Eagle, Vision
+GMC, C2500
+GMC, C3500
+GMC, Jimmy
+GMC, K2500
+GMC, K3500
+GMC, Safari
+GMC, Savana 1500
+GMC, Savana 2500
+GMC, Savana 3500
+GMC, C1500
+GMC, C1500 Suburban
+GMC, C2500 Suburban
+GMC, Sierra 1500
+GMC, Sierra 2500
+GMC, Sonoma
+GMC, Yukon
+GMC, Yukon XL 1500
+GMC, Yukon XL 2500
+GMC, Caballero
+GMC, G1500
+GMC, G2500
+GMC, G3500
+GMC, K1500
+GMC, K1500 Suburban
+GMC, K2500 Suburban
+GMC, R1500
+GMC, R1500 Suburban
+GMC, R2500
+GMC, R2500 Suburban
+GMC, R3500
+GMC, S15
+GMC, S15 Jimmy
+GMC, V1500
+GMC, V1500 Suburban
+GMC, V2500
+GMC, V2500 Suburban
+GMC, V3500
+GMC, Syclone
+GMC, Typhoon
+Geo, Metro
+Geo, Prizm
+Geo, Storm
+Geo, Tracker
+Geo, Spectrum
+Honda, Accord
+Honda, Civic
+Honda, CR-V
+Honda, Insight
+Honda, Odyssey
+Honda, Passport
+Honda, Prelude
+Honda, S2000
+Honda, Civic del Sol
+Honda, Wagovan
+Honda, CRX
+Hyundai, Accent
+Hyundai, Elantra
+Hyundai, Sonata
+Hyundai, Tiburon
+Hyundai, Excel
+Hyundai, Scoupe
+Infiniti, G20
+Infiniti, I30
+Infiniti, Q45
+Infiniti, QX4
+Infiniti, M30
+Infiniti, J30
+Isuzu, Amigo
+Isuzu, Hombre
+Isuzu, Rodeo
+Isuzu, Trooper
+Isuzu, VehiCROSS
+Isuzu, Pickup
+Isuzu, Stylus
+Isuzu, Oasis
+Isuzu, I-Mark
+Isuzu, Impulse
+Jaguar, S-Type
+Jaguar, Vanden Plas
+Jaguar, XJ8
+Jaguar, XJR
+Jaguar, XK8
+Jaguar, XKR
+Jaguar, XJ12
+Jaguar, XJ6
+Jaguar, XJS
+Jeep, Cherokee
+Jeep, Grand Cherokee
+Jeep, Wrangler
+Jeep, CJ7
+Jeep, Grand Wagoneer
+Jeep, J10
+Jeep, J20
+Jeep, Scrambler
+Jeep, Wagoneer
+Jeep, Comanche
+Jeep, CJ5
+Kia, Sephia
+Kia, Spectra
+Kia, Sportage
+Land Rover, Discovery
+Land Rover, Range Rover
+Land Rover, Defender 90
+Land Rover, Defender 110
+Lexus, ES300
+Lexus, GS300
+Lexus, GS400
+Lexus, LS400
+Lexus, LX470
+Lexus, RX300
+Lexus, SC300
+Lexus, SC400
+Lexus, ES250
+Lexus, LX450
+Lincoln, Continental
+Lincoln, LS
+Lincoln, Navigator
+Lincoln, Town Car
+Lincoln, Mark VIII
+Lincoln, Mark VII
+Lincoln, Mark VI
+Lincoln, Versailles
+Mazda, 626
+Mazda, B2500
+Mazda, B3000
+Mazda, B4000
+Mazda, Miata
+Mazda, Millenia
+Mazda, MPV
+Mazda, Protege
+Mazda, B2000
+Mazda, B2200
+Mazda, GLC
+Mazda, RX-7
+Mazda, 323
+Mazda, 929
+Mazda, B2600
+Mazda, MX-6
+Mazda, MX-3
+Mazda, Navajo
+Mazda, B2300
+Mercedes-Benz, C230
+Mercedes-Benz, C280
+Mercedes-Benz, C43 AMG
+Mercedes-Benz, CL500
+Mercedes-Benz, CLK320
+Mercedes-Benz, CLK430
+Mercedes-Benz, E320
+Mercedes-Benz, E430
+Mercedes-Benz, ML320
+Mercedes-Benz, ML430
+Mercedes-Benz, S430
+Mercedes-Benz, S500
+Mercedes-Benz, SL500
+Mercedes-Benz, SL600
+Mercedes-Benz, SLK230
+Mercedes-Benz, 190D
+Mercedes-Benz, 190E
+Mercedes-Benz, 300CE
+Mercedes-Benz, 300D
+Mercedes-Benz, 300E
+Mercedes-Benz, 300SD
+Mercedes-Benz, 300SE
+Mercedes-Benz, 300SL
+Mercedes-Benz, 300TE
+Mercedes-Benz, 400E
+Mercedes-Benz, 400SE
+Mercedes-Benz, 500E
+Mercedes-Benz, 500SEL
+Mercedes-Benz, 500SL
+Mercedes-Benz, 600SEL
+Mercedes-Benz, 400SEL
+Mercedes-Benz, 500SEC
+Mercedes-Benz, 600SEC
+Mercedes-Benz, 600SL
+Mercedes-Benz, C220
+Mercedes-Benz, E420
+Mercedes-Benz, E500
+Mercedes-Benz, S320
+Mercedes-Benz, S350
+Mercedes-Benz, S420
+Mercedes-Benz, S600
+Mercedes-Benz, SL320
+Mercedes-Benz, C36 AMG
+Mercedes-Benz, E300
+Mercedes-Benz, CL600
+Mercedes-Benz, 240D
+Mercedes-Benz, 280CE
+Mercedes-Benz, 280E
+Mercedes-Benz, 300CD
+Mercedes-Benz, 300TD
+Mercedes-Benz, 380SEL
+Mercedes-Benz, 380SL
+Mercedes-Benz, 380SLC
+Mercedes-Benz, 380SEC
+Mercedes-Benz, 380SE
+Mercedes-Benz, 260E
+Mercedes-Benz, 300SDL
+Mercedes-Benz, 420SEL
+Mercedes-Benz, 560SEC
+Mercedes-Benz, 560SEL
+Mercedes-Benz, 560SL
+Mercedes-Benz, 300SEL
+Mercedes-Benz, 350SD
+Mercedes-Benz, 350SDL
+Mercedes-Benz, 280SE
+Mercedes-Benz, 450SL
+Mercedes-Benz, 450SLC
+Mercury, Cougar
+Mercury, Grand Marquis
+Mercury, Mountaineer
+Mercury, Mystique
+Mercury, Sable
+Mercury, Villager
+Mercury, Capri
+Mercury, Topaz
+Mercury, Tracer
+Mercury, Lynx
+Mercury, Marquis
+Mercury, Zephyr
+Mercury, LN7
+Mercury, Colony Park
+Mercury, Bobcat
+Mercury, Monarch
+Mitsubishi, Diamante
+Mitsubishi, Eclipse
+Mitsubishi, Galant
+Mitsubishi, Mirage
+Mitsubishi, Montero
+Mitsubishi, Montero Sport
+Mitsubishi, 3000GT
+Mitsubishi, Expo
+Mitsubishi, Expo LRV
+Mitsubishi, Mighty Max
+Mitsubishi, Precis
+Mitsubishi, Cordia
+Mitsubishi, Starion
+Mitsubishi, Tredia
+Mitsubishi, Van
+Mitsubishi, Sigma
+Nissan, Altima
+Nissan, Frontier
+Nissan, Maxima
+Nissan, Pathfinder
+Nissan, Quest
+Nissan, Sentra
+Nissan, Xterra
+Nissan, 240SX
+Nissan, 200SX
+Nissan, Pickup
+Nissan, 210
+Nissan, 280ZX
+Nissan, 310
+Nissan, 510
+Nissan, 720
+Nissan, 300ZX
+Nissan, Pulsar NX
+Nissan, Stanza
+Nissan, D21
+Nissan, Van
+Nissan, Axxess
+Nissan, NX
+Nissan, 810
+Nissan, Pulsar
+Oldsmobile, Alero
+Oldsmobile, Bravada
+Oldsmobile, Intrigue
+Oldsmobile, Silhouette
+Oldsmobile, 88
+Oldsmobile, Achieva
+Oldsmobile, Aurora
+Oldsmobile, Cutlass
+Oldsmobile, LSS
+Oldsmobile, Regency
+Oldsmobile, 98
+Oldsmobile, Custom Cruiser
+Oldsmobile, Cutlass Calais
+Oldsmobile, Cutlass Ciera
+Oldsmobile, Cutlass Supreme
+Oldsmobile, Calais
+Oldsmobile, Cutlass Cruiser
+Oldsmobile, Toronado
+Oldsmobile, Cutlass Salon
+Oldsmobile, Delta 88
+Oldsmobile, Omega
+Oldsmobile, Starfire
+Oldsmobile, Firenza
+Plymouth, Breeze
+Plymouth, Grand Voyager
+Plymouth, Neon
+Plymouth, Prowler
+Plymouth, Voyager
+Plymouth, Acclaim
+Plymouth, Colt
+Plymouth, Laser
+Plymouth, Sundance
+Plymouth, Arrow Pickup
+Plymouth, Champ
+Plymouth, Gran Fury
+Plymouth, Horizon
+Plymouth, PB150
+Plymouth, PB250
+Plymouth, PB350
+Plymouth, Reliant
+Plymouth, Sapporo
+Plymouth, TC3
+Plymouth, Conquest
+Plymouth, Turismo
+Plymouth, Turismo 2.2
+Plymouth, Caravelle
+Plymouth, Arrow
+Plymouth, PB100
+Plymouth, PB200
+Plymouth, PB300
+Plymouth, Trailduster
+Plymouth, Volare
+Plymouth, Scamp
+Pontiac, Bonneville
+Pontiac, Firebird
+Pontiac, Grand Am
+Pontiac, Grand Prix
+Pontiac, Montana
+Pontiac, Sunfire
+Pontiac, Trans Sport
+Pontiac, Catalina
+Pontiac, Grand LeMans
+Pontiac, LeMans
+Pontiac, Phoenix
+Pontiac, T1000
+Pontiac, 6000
+Pontiac, Fiero
+Pontiac, Sunbird
+Pontiac, J2000
+Pontiac, J2000 Sunbird
+Pontiac, Parisienne
+Pontiac, Safari
+Porsche, 911
+Porsche, Boxster
+Porsche, 924
+Porsche, 928
+Porsche, 968
+Porsche, 944
+Saab, 9-3
+Saab, 9-5
+Saab, 900
+Saab, 9000
+Saab, 99
+Saturn, LS
+Saturn, LS1
+Saturn, LS2
+Saturn, LW1
+Saturn, LW2
+Saturn, SC1
+Saturn, SC2
+Saturn, SL
+Saturn, SL1
+Saturn, SL2
+Saturn, SW2
+Saturn, SW1
+Saturn, SC
+Subaru, Forester
+Subaru, Impreza
+Subaru, Legacy
+Subaru, Outback
+Subaru, SVX
+Subaru, Brat
+Subaru, DL
+Subaru, GL
+Subaru, GLF
+Subaru, Standard
+Subaru, Justy
+Subaru, Loyale
+Subaru, GL-10
+Subaru, RX
+Subaru, XT
+Suzuki, Esteem
+Suzuki, Grand Vitara
+Suzuki, Swift
+Suzuki, Vitara
+Suzuki, Sidekick
+Suzuki, X-90
+Suzuki, Samurai
+Suzuki, SJ410
+Toyota, 4Runner
+Toyota, Avalon
+Toyota, Camry
+Toyota, Celica
+Toyota, Corolla
+Toyota, Echo
+Toyota, Land Cruiser
+Toyota, MR2 Spyder
+Toyota, RAV4
+Toyota, Sienna
+Toyota, Solara
+Toyota, Tacoma
+Toyota, Tundra
+Toyota, Supra
+Toyota, T100
+Toyota, MR2
+Toyota, Paseo
+Toyota, Pickup
+Toyota, Previa
+Toyota, Tercel
+Toyota, Corona
+Toyota, Cressida
+Toyota, Starlet
+Toyota, Van
+Volkswagen, Beetle
+Volkswagen, Cabrio
+Volkswagen, EuroVan
+Volkswagen, Golf
+Volkswagen, Jetta
+Volkswagen, Passat
+Volkswagen, Corrado
+Volkswagen, Dasher
+Volkswagen, Rabbit
+Volkswagen, Rabbit Convertible
+Volkswagen, Rabbit Pickup
+Volkswagen, Scirocco
+Volkswagen, Vanagon
+Volkswagen, Quantum
+Volkswagen, Cabriolet
+Volkswagen, Fox
+Volvo, C70
+Volvo, S40
+Volvo, S70
+Volvo, S80
+Volvo, V40
+Volvo, V70
+Volvo, 850
+Volvo, 960
+Volvo, S90
+Volvo, V90
+Volvo, 242
+Volvo, 244
+Volvo, 245
+Volvo, 262
+Volvo, 264
+Volvo, 265
+Volvo, 760
+Volvo, 240
+Volvo, 740
+Volvo, 780
+Volvo, 940
+Volvo, 745
+Peugeot, 504
+Peugeot, 505
+Peugeot, 604
+Peugeot, 405
+Sterling, 825
+Sterling, 827
+Yugo, Cabrio
+Yugo, GV
